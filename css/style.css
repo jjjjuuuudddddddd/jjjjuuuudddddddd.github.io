@@ -361,11 +361,9 @@ body {
 font-family: "adobe-garamond-pro",sans-serif;
 font-style: italic;
 font-weight: 400;
-
   font-size: 1.35em;
   text-align: center;
   text-transform: none;
-  letter-spacing: .05em;
   margin-top: .32407407407407407em;
   margin-right: auto;
   margin-left: auto
@@ -381,7 +379,6 @@ font-style: italic;
 font-weight: 400;
   font-size: 1.35em;
   text-align: center;
-  letter-spacing: .05em;
   margin-top: 2.2542613636363638em;
   margin-right: auto;
   margin-left: auto
@@ -667,7 +664,6 @@ font-weight: 400;
 	font-weight: 400;
     font-size: 1.2em;
     text-align: center;
-    letter-spacing: .05em;
     margin-top: 1.27154605263157em
   }
 }
