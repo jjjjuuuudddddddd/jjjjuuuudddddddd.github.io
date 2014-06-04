@@ -358,7 +358,7 @@ body {
 .fr_kupesu {
   display: block;
   width: auto;
-  font-family: "league-gothic-condensed";
+  font-family: "league-gothic";
   font-weight: 500;
   font-size: 1.35em;
   text-align: center;
@@ -374,7 +374,7 @@ body {
 .fr_civelo {
   display: block;
   width: auto;
-  font-family: "league-gothic-condensed";
+  font-family: "league-gothic";
   font-size: 1.35em;
   text-align: center;
   letter-spacing: .05em;
@@ -432,7 +432,7 @@ body {
   .fr_civelo {
     float: none;
     display: block;
-  	font-family: "league-gothic-condensed";
+  	font-family: "league-gothic";
     font-weight: 500;
     font-size: 1.35em;
     text-align: center;
@@ -657,7 +657,7 @@ body {
 @media screen and (max-width: 320px) {
   .fr_civelo {
     display: block;
-  	font-family: "league-gothic-condensed";
+  	font-family: "league-gothic";
     font-weight: 200;
     font-size: 1.2em;
     text-align: center;
