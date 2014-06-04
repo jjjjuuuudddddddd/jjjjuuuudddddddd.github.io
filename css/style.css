@@ -358,8 +358,10 @@ body {
 .fr_kupesu {
   display: block;
   width: auto;
-  font-family: "league-gothic";
-  font-weight: 500;
+font-family: "adobe-garamond-pro",sans-serif;
+font-style: italic;
+font-weight: 400;
+
   font-size: 1.35em;
   text-align: center;
   text-transform: none;
@@ -374,7 +376,9 @@ body {
 .fr_civelo {
   display: block;
   width: auto;
-  font-family: "league-gothic";
+font-family: "adobe-garamond-pro",sans-serif;
+font-style: italic;
+font-weight: 400;
   font-size: 1.35em;
   text-align: center;
   letter-spacing: .05em;
@@ -432,8 +436,9 @@ body {
   .fr_civelo {
     float: none;
     display: block;
-  	font-family: "league-gothic";
-    font-weight: 500;
+	font-family: "adobe-garamond-pro",sans-serif;
+	font-style: italic;
+	font-weight: 400;
     font-size: 1.35em;
     text-align: center;
     margin-top: 1.8458806818181819em;
@@ -657,8 +662,9 @@ body {
 @media screen and (max-width: 320px) {
   .fr_civelo {
     display: block;
-  	font-family: "league-gothic";
-    font-weight: 200;
+	font-family: "adobe-garamond-pro",sans-serif;
+	font-style: italic;
+	font-weight: 400;
     font-size: 1.2em;
     text-align: center;
     letter-spacing: .05em;
